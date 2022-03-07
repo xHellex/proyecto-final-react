@@ -8,7 +8,7 @@ Web App to build Yu-Gi-Oh Decks, allows you to download a deck file compatible w
 3. Implements API pagination
 4. In-depth data preview by right-clicking a card
 
-Hosted App: https://deckbuilder.netlify.app/  
+Hosted App: https://proyecto-react-build-deck-yugioh.vercel.app/
 API: https://db.ygoprodeck.com/api-guide/
 
 ## Available Scripts
